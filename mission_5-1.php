@@ -7,7 +7,7 @@
 <body>
 
 <?php
-$servername = "localhost"; // データベースサーバー名
+$servername = "データベース名"; // データベースサーバー名
 $username = "ユーザー名"; // ユーザー名
 $password = "パスワード"; // パスワード
 $dbname = "データベース名"; // データベース名
